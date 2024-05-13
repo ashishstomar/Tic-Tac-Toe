@@ -46,8 +46,9 @@ body {
   
 .game-info {
     margin-left: 20px;
+
 }
-  
+
 button {
   background-color: bisque;
   height: 25px;
@@ -55,6 +56,9 @@ button {
   border: none;
   border-radius: 20px;
   outline: 2px solid rgb(33, 31, 31);
+  cursor: pointer;
+  margin: 7px;
+
 }
 
 .status {
